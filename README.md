@@ -1,7 +1,7 @@
 
 ## Project Workflow
 
-As a Data Engineer, im working on a data pipeline/ETL project. Your task is to extract data from a website, process it, and store it in a PostgreSQL database. 
+As a Data Engineer, im working on a data pipeline/ETL project. The task is to extract data from a website, process it, and store it in a PostgreSQL database. 
 
 ## A. Extract
 
