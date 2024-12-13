@@ -1,6 +1,5 @@
-# ETL_Web_Scraping_Data-Wrangling
 
-# Workflow
+## Project Workflow
 
 As a Data Engineer, im working on a data pipeline/ETL project. Your task is to extract data from a website, process it, and store it in a PostgreSQL database. 
 
