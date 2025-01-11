@@ -1,7 +1,7 @@
 
-## Project Workflow
+## Description
 
-As a Data Engineer, im working on a data pipeline/ETL project. The task is to extract data from a website, process it, and store it in a PostgreSQL database. 
+As a Data Engineer, this project focuses on building a data pipeline to scrape data from a retail-related website, clean and process the data, and load it into a PostgreSQL database for storage and future analysis.
 
 ## Prerequisites
 1. Python 3.x installed with the following libraries:
